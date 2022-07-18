@@ -12,7 +12,7 @@ export default function App(): JSX.Element {
             <img className='rounded-[13px] overflow-hidden' src={qr} alt="qr-code" />
           </div>
           <div className="flex-col max-w-[14em] justify-center items-center">
-            <div className="flex text-[15px] text-center pl-6 pr-6 font-[700]"><b>Improve your front-end skills by building projects.</b></div>
+            <div className="flex text-[15px] text-center pl-6 pr-6 font-[700]">Improve your front-end skills by building projects.</div>
             <div className="flex text-[10px] text-center pl-6 pr-6 pt-3 pb-6 font-light text-gray-500">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level.</div>
           </div>
         </div>
